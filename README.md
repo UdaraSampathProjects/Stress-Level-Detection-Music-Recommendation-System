@@ -1,5 +1,5 @@
 <h1>Stress Detection and Music Recommendation System 🎶🤖</h1>
-<p>This project developed at <strong>SLIIT</strong> combines <strong>Artificial Intelligence</strong> (AI) and <strong>Deep Learning</strong> to offer a personalized approach to mental well-being. The system detects stress levels in real-time and provides music recommendations to help reduce stress based on emotional states derived from facial expressions and vocal tone. 😊🎵</p>
+<p>This project developed using <strong>Artificial Intelligence</strong> (AI) and <strong>Deep Learning</strong> to offer a personalized approach to mental well-being. The system detects stress levels in real-time and provides music recommendations to help reduce stress based on emotional states derived from facial expressions and vocal tone. 😊🎵</p>
 
 <h2>Key Features 🔑</h2>
 
