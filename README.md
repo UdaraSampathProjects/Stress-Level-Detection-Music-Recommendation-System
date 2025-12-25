@@ -22,7 +22,7 @@
 <ul>
     <li>Based on the detected stress level, the system recommends music tailored to match the user's emotional state. 🎧❤️</li>
     <li>The <strong>GTZAN dataset</strong> is used to identify and cluster songs by mood, ensuring that the music selected effectively helps to reduce stress. 🎵💆‍♂️</li>
-    <li>Songs are clustered using <strong>K-means clustering</strong> to align with the identified stress level, providing users with a personalized playlist to help them relax and de-stress. 🎶🤩</li>
+    <li>Songs are clustered using <strong>K-means clustering</strong> to align with the identified stress level, providing users with a personalized playlist to help them relax and destress. 🎶🤩</li>
 </ul>
 
 <h2>Technologies Used 🛠️</h2>
@@ -33,7 +33,7 @@
 </ul>
 
 <h2>Impact 🌍</h2>
-<p>This project demonstrates how AI can be utilized to enhance mental well-being. By combining emotion detection with music, it offers an innovative way to manage stress and provides a scientifically-backed, real-time solution for users to regulate their emotional state. 🌟💆‍♀️</p>
+<p>This project demonstrates how AI can be utilized to enhance mental well-being. By combining emotion detection with music, it offers an innovative way to manage stress and provides a scientifically backed, real time solution for users to regulate their emotional state. 🌟💆‍♀️</p>
 
 <h2>Conclusion 🎯</h2>
-<p>The <strong>Stress Detection and Music Recommendation System</strong> highlights how AI can be leveraged for emotional health, providing a seamless, real-time solution for managing stress through personalized music recommendations based on the user's emotional state. 🎧❤️🤖</p>
+<p>The <strong>Stress Detection and Music Recommendation System</strong> highlights how AI can be leveraged for emotional health, providing a seamless, real time solution for managing stress through personalized music recommendations based on the user's emotional state. 🎧❤️🤖</p>
